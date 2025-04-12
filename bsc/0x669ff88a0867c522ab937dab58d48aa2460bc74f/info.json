@@ -1,13 +1,1 @@
 {
-  "name": "AAA",
-  "website": "https://www.bitcoinmax.com",
-  "description": "BitcoinMax 是一个创新的区块链项目，致力于为用户提供更高效、更安全的数字资产管理解决方案。通过独特的双层勋章机制和智能合约系统，我们实现了资产的高效流通和价值储存。项目采用先进的 PoS 共识机制，确保网络的安全性和可扩展性。同时，我们的跨链桥接技术支持与主流公链的无缝互通，为用户提供更好的资产流动性和投资机会。我们的愿景是成为数字资产领域的领军项目，为全球用户创造更多价值。",
-  "explorer": "https://bscscan.com/token/0x669ff88a0867c522ab937dab58d48aa2460bc74f",
-  "type": "BEP20",
-  "symbol": "AAA",
-  "decimals": 18,
-  "status": "active",
-  "telegram":"http://192.168.1.63:5173/",
-  "discord":"http://192.168.1.63:5173/",
-  "id": "0x669ff88a0867c522ab937dab58d48aa2460bc74f"
- }
